@@ -239,11 +239,17 @@ a{
   .col-3{
     width:50%;
   }
+  .col-2{
+    width:100%;
+  }
   .col-6{
     width:100%;
   }
   .details__image{
     padding-right:0px;
+}
+.cart__heading{
+  display:none
 }
 }
 @media (max-width: 400px){
